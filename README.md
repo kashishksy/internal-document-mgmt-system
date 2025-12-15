@@ -1,1 +1,1 @@
-# internal-document-mgmt-system
+Internal Document Management System (Node + MongoDB)
